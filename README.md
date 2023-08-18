@@ -7,8 +7,8 @@ This project is a code refactor of the Horiseon website to improve accessibility
 
 ## Technologies Used
 
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Links
 
